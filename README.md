@@ -21,23 +21,6 @@ The goal of this repository is to build **strong, interview-ready data analysis 
 
 ---
 
-Python-Data-Analysis/
-│
-├── Module_01_Python_Basics/
-├── Module_02_NumPy/
-├── Module_03_Pandas/
-├── Module_04_Data_Visualization/
-├── Module_05_EDA/
-├── Module_06_Files_and_Automation/
-├── Module_07_SQL_Integration/
-├── Module_08_Statistics/
-├── Module_09_Bonus_Topics/
-│
-└── README.md
-
----
-
-
 Each module contains **Jupyter Notebook (`.ipynb`) files** with explanations, examples, and practice problems.
 
 ---
