@@ -139,7 +139,3 @@ Each module contains **Jupyter Notebook (`.ipynb`) files** with explanations, ex
 If you have feedback or suggestions, feel free to connect!
 
 Happy Learning 🚀
-
-
-## 🗂 Repository Structure
-
